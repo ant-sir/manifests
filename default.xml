@@ -2,12 +2,12 @@
 <manifest>
 
   <remote  name="origin"
-           fetch=".."
+           fetch="https://github.com/ant-sir"
            review="https://android-review.googlesource.com/" />
   <default revision="master"
            remote="origin"
            sync-j="4" />
 
-  <project path="site" name="site" groups="" />
+  <project path="site" name="site" />
 
 </manifest>
