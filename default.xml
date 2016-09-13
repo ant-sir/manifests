@@ -9,5 +9,6 @@
            sync-j="4" />
 
   <project path="site" name="site" />
+  <project path="workspace" name="workspace" />
 
 </manifest>
