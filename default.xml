@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="origin"
-           fetch="https://github.com/ant-sir"
+           fetch="git@github.com:ant-sir/"
            review="https://android-review.googlesource.com/" />
   <default revision="master"
            remote="origin"
