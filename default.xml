@@ -4,11 +4,15 @@
   <remote  name="origin"
            fetch=".."
            review="https://android-review.googlesource.com/" />
+  <remote  name="gtest"
+           fetch="https://github.com/google/"
+           review="https://android-review.googlesource.com/" />
   <default revision="master"
            remote="origin"
            sync-j="4" />
 
   <project path="site" name="site" />
   <project path="workspace" name="workspace" />
+  <project path="googletest" name="googletest" remote="gtest" />
 
 </manifest>
