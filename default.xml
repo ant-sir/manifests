@@ -13,6 +13,9 @@
 
   <project path="site" name="site" />
   <project path="workspace" name="workspace" />
-  <project path="googletest" name="googletest" remote="gtest" />
+  <project path="googletest" name="googletest" remote="gtest">
+    <copyfile src="googlemock/include/gmock" dest="workspace/include/gmock" />
+    <copyfile src="googletest/include/gtest" dest="workspace/include/gtest" />
+  </project>
 
 </manifest>
