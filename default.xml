@@ -13,6 +13,7 @@
 
   <project path="site" name="site" />
   <project path="workspace" name="workspace" />
+  <project path="assembly" name="assembly" />
   <project path="googletest" name="googletest" remote="gtest">
     <linkfile src="googlemock/include/gmock" dest="workspace/include/gmock" />
     <linkfile src="googletest/include/gtest" dest="workspace/include/gtest" />
