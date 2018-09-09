@@ -18,5 +18,5 @@
     <linkfile src="googlemock/include/gmock" dest="workspace/include/gmock" />
     <linkfile src="googletest/include/gtest" dest="workspace/include/gtest" />
   </project>
-
+  <project path="srcexpl" name="SrcExpl" />
 </manifest>
