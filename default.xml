@@ -19,5 +19,5 @@
     <linkfile src="googletest/include/gtest" dest="workspace/include/gtest" />
   </project>
   <project path="srcexpl" name="SrcExpl" />
-  <project path="cppmock" name="cppmock" />
+  <project path="mockcpp" name="mockcpp" />
 </manifest>
