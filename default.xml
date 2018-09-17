@@ -20,4 +20,5 @@
   </project>
   <project path="srcexpl" name="SrcExpl" />
   <project path="mockcpp" name="mockcpp" />
+    <linkfile src="mockcpp/include/mockcpp" dest="workspace/include/mockcpp" />
 </manifest>
