@@ -21,4 +21,5 @@
   <project path="mockcpp" name="mockcpp">
     <linkfile src="include/mockcpp" dest="workspace/include/mockcpp" />
   </project>
+  <project path="xmlgen" name="xmlgen" />
 </manifest>
