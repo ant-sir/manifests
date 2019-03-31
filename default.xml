@@ -22,4 +22,7 @@
     <linkfile src="include/mockcpp" dest="workspace/include/mockcpp" />
   </project>
   <project path="xmlgen" name="xmlgen" />
+  <project path="auto" name="auto" />
+  <project path="site-search-config" name="site-search-config" />
+  <project path="vimrc" name="vimrc" />
 </manifest>
