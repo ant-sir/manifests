@@ -25,4 +25,5 @@
   <project path="auto" name="auto" />
   <project path="site-search-config" name="site-search-config" />
   <project path="vimrc" name="vimrc" />
+  <project path="certbot-dns-aliyun" name="certbot-dns-aliyun" />
 </manifest>
